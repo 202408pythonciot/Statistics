@@ -3,7 +3,7 @@
 
 | 章 | 項目 | 使用データ(Excel) | 使用データ(CSV) | Colaboratory |
 | --- | --- | --- | --- | --- |
-| 2 | 分散と標準偏差 | [2章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_02/Sample_Data/2%E7%AB%A0.xlsx?raw=true) | [上海飯店](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_02/Sample_Data/shisen_tofu.csv)，[四川飯店](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_02/Sample_Data/shisen_tofu.csv) ，[成績](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_02/Sample_Data/exam_score.csv) |
+| 2 | 分散と標準偏差 | [2章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_02/Sample_Data/2%E7%AB%A0.xlsx?raw=true) | [上海飯店](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_02/Sample_Data/shisen_tofu.csv)，[四川飯店](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_02/Sample_Data/shisen_tofu.csv) ，[成績](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_02/Sample_Data/exam_score.csv) | [Lesson_02.ipynb](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_02/Colaboratory/Lesson_02.ipynb) |
 | 3 | 信頼区間 | [3章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_03/Sample_Data/3%E7%AB%A0.xlsx?raw=true) |  |
 | 4 | 散布図と相関 | [4章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_04/Sample_Data/4%E7%AB%A0.xlsx?raw=true) |  |
 | 5 | 相関係数 | [5章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_05/Sample_Data/5%E7%AB%A0.xlsx?raw=true) |  |
