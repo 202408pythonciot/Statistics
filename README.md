@@ -8,5 +8,5 @@
 | 4 | 散布図と相関 | [4章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_04/Sample_Data/4%E7%AB%A0.xlsx?raw=true) |  |
 | 5 | 相関係数 | [5章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_05/Sample_Data/5%E7%AB%A0.xlsx?raw=true) |  |
 | 6 | 回帰直線 | [6章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_06/Sample_Data/6%E7%AB%A0.xlsx?raw=true) |  |
-| 7 | 
-| 8 |
+| 7 | 偏相関 | [7章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_07/Sample_Data/7%E7%AB%A0.xlsx?raw=true) |  |
+| 8 | 重回帰 | [8章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_08/Sample_Data/8%E7%AB%A0.xlsx?raw=true) |  |
