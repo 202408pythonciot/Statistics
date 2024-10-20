@@ -3,9 +3,9 @@
 
 | 章 | 項目 | 使用データ(Excel) | 使用データ(CSV) | Colaboratory |
 | --- | --- | --- | --- | --- |
-| 2 | 分散と標準偏差 | [2章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_02/Sample_Data/2章.xlsx?raw=true) |  |
-| 3 | 信頼区間 | [3章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_03/Sample_Data/3章.xlsx?raw=true) |  |
-| 4 |  | [4章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_04/Sample_Data/4章.xlsx?raw=true) |  |
-
+| 2 | 分散と標準偏差 | [2章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_02/Sample_Data/2%E7%AB%A0.xlsx?raw=true) |  |
+| 3 | 信頼区間 | [3章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_03/Sample_Data/3%E7%AB%A0.xlsx?raw=true) |  |
+| 4 | 散布図と相関 | [4章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_04/Sample_Data/4%E7%AB%A0.xlsx?raw=true) |  |
+| 5 | 相関係数 | [5章.xlsx](https://github.com/202408pythonciot/Statistics/blob/main/_Textbook/Lesson_05/Sample_Data/5%E7%AB%A0.xlsx?raw=true) |  |
  
  
